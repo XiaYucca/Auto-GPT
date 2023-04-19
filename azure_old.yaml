@@ -1,0 +1,8 @@
+azure_api_type: azure
+azure_api_base: https://tranzi-openAI.openai.azure.com
+azure_api_version: 2023-03-15-preview
+#azure_api_key: 2fdb8b7f5aa141b5a44f0cf306c09017
+azure_model_map:
+    fast_llm_model_deployment_id: gpt-35-turbo
+    smart_llm_model_deployment_id: gpt-4
+    embedding_model_deployment_id: text-similarity-davinci-001

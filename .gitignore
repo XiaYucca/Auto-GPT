@@ -8,8 +8,8 @@ package-lock.json
 *.pyc
 auto_gpt_workspace/*
 *.mpeg
-.env
-azure.yaml
+autogpt/.env
+autogpt/azure.yaml
 outputs/*
 ai_settings.yaml
 last_run_ai_settings.yaml
@@ -128,7 +128,7 @@ celerybeat.pid
 
 # Environments
 .direnv/
-.env
+autogpt/.env
 .venv
 env/
 venv*/
